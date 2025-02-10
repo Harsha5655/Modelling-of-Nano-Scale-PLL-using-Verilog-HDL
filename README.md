@@ -1,0 +1,1 @@
+To implement a stable frequency nano scale PLL through verilog HDL modelling,which has potential to reduce time and cost.It involves modelling PLL components including pre divider,main divider,scaler,voltage controlled oscillator,Frequency detector,charge pump.
